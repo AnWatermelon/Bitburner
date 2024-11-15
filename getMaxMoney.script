@@ -1,0 +1,2 @@
+var target = args[0];
+print(getServerMaxMoney(target));
